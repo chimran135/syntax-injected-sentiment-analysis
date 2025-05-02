@@ -1,4 +1,5 @@
 # A syntax-Injected Approach for Faster and More Accurate Sentiment Analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15323755.svg)](https://doi.org/10.5281/zenodo.15323755)
 
 ## Description  
 This study addresses the computational bottleneck of traditional parsers (e.g. Stanza) by proposing a SEquence Labeling Syntactic Parser (SELSP) to inject syntax into Sentiment Analysis (SA) system. By treating dependency parsing as a sequence labeling problem, we build sentiment analysis system that is lightweight and efficient, while still providing accuracy and explainability through the explicit use of syntax. We intend our approach to be the backbone of a working product of interest for SMEs to use in production.
